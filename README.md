@@ -17,4 +17,6 @@ problem through deep learning", Pattern Recognition, 2017
 
 moore-penrose-pseudoinverse: https://www.geeksforgeeks.org/moore-penrose-pseudoinverse-mathematics/  
 
-迪利克雷多项式：http://www.limoncc.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017-03-08-%E7%8B%84%E5%88%A9%E5%85%8B%E9%9B%B7-%E5%A4%9A%E9%A1%B9%E5%BC%8F%E6%A8%A1%E5%9E%8B/
+迪利克雷多项式：http://www.limoncc.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017-03-08-%E7%8B%84%E5%88%A9%E5%85%8B%E9%9B%B7-%E5%A4%9A%E9%A1%B9%E5%BC%8F%E6%A8%A1%E5%9E%8B/  
+
+贝叶斯理论：https://www.zhihu.com/question/27670909
